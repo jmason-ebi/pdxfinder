@@ -13,7 +13,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
- *
+ * If the standard PDX template spreadsheets are saved as tab delimited files to a single dir with filenames 
+ * PT.txt, PTModel.txt, MolChar.txt and SampleData.txt this will parse them into JSON compatible with the LoadIRCC.java command.
  * @author sbn
  */
 public class UPDOGParser {
@@ -21,7 +22,7 @@ public class UPDOGParser {
     public static void main(String[] args) {
         
         String dataSource = "IRCC";
-        String fileLocation = "./data/";
+        String fileLocation = "C:/IRCC/";
         
         // will create a file <dataSource>.json in <fileLocation> dir
         boolean writeToFile = true;
@@ -39,6 +40,7 @@ public class UPDOGParser {
         HashMap<String, ArrayList<String>> modelSpecimens = new HashMap();
         HashMap<String, Specimen> specimenMap = new HashMap();
         HashMap<String, ArrayList<String>> samplePlatforms = new HashMap();
+        HashMap<String, ArrayList<ArrayList<String>>> drugResponse = new HashMap();
 
         try {
 
@@ -93,6 +95,35 @@ public class UPDOGParser {
                 line = buf.readLine();
             }
             buf.close();
+            
+            // drug response
+            //Model	Drug	Manufacturer	Dose	Duration	Frequency	Arm Size	Response Class	Passage Range
+            
+            buf = new BufferedReader(new FileReader(dir + "IRCC_Drug_Response.txt"));
+            line = buf.readLine();
+
+            while (line != null) {
+                String[] parts = line.split(delimiter);
+        //        System.out.println(parts[0]);
+                ArrayList<String> treatment = new ArrayList();
+                treatment.add(parts[1]);
+                treatment.add(parts[2]);
+                treatment.add(parts[3]);
+                treatment.add(parts[4]);
+                treatment.add(parts[5]);
+                treatment.add(parts[6]);
+                treatment.add(parts[7]);
+                treatment.add(parts[8]);
+                if (drugResponse.containsKey(parts[0])) {
+                    drugResponse.get(parts[0]).add(treatment);
+                } else {
+                    ArrayList<ArrayList<String>> treatments = new ArrayList();
+                    treatments.add(treatment);
+                    drugResponse.put(parts[0], treatments);
+                }
+                line = buf.readLine();
+            }
+            buf.close();
 
             buf = new BufferedReader(new FileReader(dir + "PTModel.txt"));
             line = buf.readLine();
@@ -112,7 +143,24 @@ public class UPDOGParser {
                 sb.append("\"").append("Tumor Type").append("\":\"").append(parts[11]).append("\",\n");
                 sb.append("\"").append("Model ID").append("\":\"").append(parts[12]).append("\",\n");
                 sb.append("\"").append("Treatment Naive").append("\":\"").append(parts[13]).append("\",\n");
-                sb.append("\"").append("Treatment").append("\":\"").append(parts[14]).append("\",\n");
+            //    System.out.println(parts[12]);
+                if(drugResponse.containsKey(parts[12])){
+                    sb.append("\"").append("Treatment").append("\":[");
+                    for(ArrayList<String> treatments : drugResponse.get(parts[12])){
+                        //Drug	Manufacturer	Dose	Duration	Frequency	Arm Size	Response Class	Passage Range
+                        sb.append("{\"Drug\":\"").append(treatments.get(0)).append("\",");
+                        sb.append("\"Manufacturer\":\"").append(treatments.get(1)).append("\",");
+                        sb.append("\"Dose\":\"").append(treatments.get(2)).append("\",");
+                        sb.append("\"Duration\":\"").append(treatments.get(3)).append("\",");
+                        sb.append("\"Frequency\":\"").append(treatments.get(4)).append("\",");
+                        sb.append("\"Arm Size\":\"").append(treatments.get(5)).append("\",");
+                        sb.append("\"Response Class\":\"").append(treatments.get(6)).append("\",");
+                        sb.append("\"Passage Range\":\"").append(treatments.get(7)).append("\"},");
+                    }
+                    sb.replace(sb.length()-1, sb.length(), "],");
+                }else{
+                    sb.append("\"").append("Treatment").append("\":\"").append(parts[14]).append("\",\n");
+                }
                 
                 // maybe this field should be validation with the value fingerprinting?
                 sb.append("\"").append("Fingerprinting").append("\":\"").append(parts[20]).append("\",\n");

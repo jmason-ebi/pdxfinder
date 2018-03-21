@@ -1,0 +1,553 @@
+Model	Drug	Manufacturer	Dose	Duration	Frequency	Arm Size	Response Class	Passage Range
+CRC0014LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0014LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0018LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0018LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0019LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0019LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0021LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0021LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0022LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0022LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0024LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0024LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0025LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0025LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0027LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0027LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0028LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0028LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0029LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0029LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0030LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0030LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0031LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0031LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0032LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0032LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0053LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0053LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0054LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0054LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0055LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0055LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0056LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0056LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0057LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0057LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0058LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0058LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0059LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0059LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0060LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0060LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0061LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0061LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0062LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0062LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0063LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0063LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0064LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0064LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0065LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0065LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0066LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0066LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0067LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0067LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0068LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0068LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0069LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0069LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0070LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0070LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0071LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0071LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0073LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0073LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0076LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0076LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0077LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0077LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0078LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0078LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0079LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0079LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0080LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0080LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0081LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0081LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0082LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0082LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0085LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0085LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0094LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0094LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0095LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0095LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0096LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0096LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0097LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0097LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0098LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0098LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0099LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0099LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0100LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0100LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0101LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0101LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0102LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0102LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0103LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0103LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0104LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0104LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0105LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0105LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0106LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0106LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0109LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0109LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0112LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0112LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0113LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0113LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0115LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0115LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0116LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0116LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0117LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0117LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0118LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0118LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0121LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0121LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0124LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0124LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0125LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0125LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0126LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0126LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0127LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0127LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0128LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0128LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0129LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0129LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0131LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0131LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0133LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0133LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0134LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0134LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0136LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0136LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0137LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0137LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0139LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0139LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0143LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0143LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0144LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0144LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0145LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0145LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0146LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0146LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0147LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0147LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0148LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0148LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0149LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0149LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0150LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0150LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0151LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0151LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0152LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0152LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0153LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0153LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0159LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0159LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0161LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0161LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0165LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0165LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0166LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0166LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0167LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0167LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0171LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0171LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0173LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0173LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0174LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0174LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0175LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0175LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0176LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0176LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0177LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0177LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0179LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0179LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0180LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0180LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0184LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0184LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0185LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0185LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0186LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0186LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0187LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0187LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0188LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0188LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0190LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0190LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0196LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0196LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0197LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0197LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0198LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0198LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0199LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0199LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0202LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0202LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0204LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0204LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0219LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0219LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0231LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0231LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0237LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0237LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0239LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0239LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0242LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0242LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0243LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0243LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0246LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0246LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0252LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0252LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0254LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0254LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0257LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0257LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0261LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0261LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0262LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0262LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0264LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0264LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0265LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0265LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0276LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0276LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0277LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0277LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0285LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0285LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0291LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0291LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0297LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0297LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0306LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0306LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0307LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0307LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0309LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0309LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0312LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0312LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0314LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0314LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0316LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0316LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0321LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0321LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0322LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0322LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0323LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0323LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0324LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0324LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0327LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0327LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0328LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0328LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0330LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0330LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0334LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0334LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0343LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0343LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0344LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0344LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0348LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0348LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0349LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0349LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0354LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0354LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0356LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0356LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0358LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0358LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0362LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0362LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0370LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0370LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0371LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0371LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0378LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0378LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0379LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0379LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0382LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0382LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0391LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0391LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0394LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0394LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0396LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0396LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0399LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0399LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0400LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0400LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0403LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0403LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0404LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0404LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0416LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0416LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0419LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0419LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0420LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0420LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0431LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0431LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0435LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0435LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0438LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0438LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0440LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0440LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0441LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0441LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0442LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0442LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0449LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0449LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0456LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0456LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0458LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0458LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0465LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0465LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0468LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0468LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0471LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0471LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0475LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0475LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0477LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0477LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0479LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0479LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0480LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0480LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0481LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0481LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0484LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0484LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0488LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0488LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0490LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0490LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0493LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0493LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0494LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0494LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0495LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0495LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0504LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0504LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0505LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0505LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0508LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0508LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0512LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0512LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0515LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0515LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0516LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0516LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0525LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0525LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0527LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0527LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0528LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0528LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0534LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0534LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0536LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0536LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0537LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0537LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0542LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0542LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0556LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0556LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0574LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0574LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0578LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0578LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0580LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0580LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0581LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0581LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0610LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0610LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0616LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0616LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0626LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0626LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0670LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0670LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0680LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0680LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0706LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0706LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0716LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0716LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0718LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0718LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0729LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0729LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0734LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0734LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0743LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0743LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0753LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0753LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0771LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0771LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC0772LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0772LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC0773LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0773LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0783LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC0783LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC1063LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1063LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1065LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1065LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1067LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1067LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC1071LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1071LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1072LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1072LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC1138LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1138LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1144LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1144LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1145LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1145LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC1146LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1146LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1157LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1157LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC1166LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1166LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC1169LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1169LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1182LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1182LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1241LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1241LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1264LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1264LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC1272LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1272LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC1278LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1278LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1303LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1303LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1306LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1306LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1313LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1313LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1314LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1314LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1321LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1321LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC1329LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1329LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1331LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1331LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PR	Earliest passage is 3
+CRC1337LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1337LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC1342LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1342LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1360LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1360LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1367LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1367LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC1369LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1369LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC1376LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1376LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1379LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1379LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1389LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1389LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC1399LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1399LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1408LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1408LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1430LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1430LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1432LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1432LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1445LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1445LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1449LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1449LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1472LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1472LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC1473LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1473LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1486LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1486LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1501LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1501LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC1502LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1502LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1522LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1522LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1530LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1530LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC1561LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1561LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC1562LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1562LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1575LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1575LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1581LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1581LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC1586LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1586LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1599LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1599LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	SD	Earliest passage is 3
+CRC1605LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1605LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1648LM	0.9% Solution of Sodium Chloride	B. Braun	0 mg/Kg	3wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
+CRC1648LM	Erbitux, Cetuximab	Merck	20 mg/Kg	6wks	Twice a week	6 mice per arm	PD	Earliest passage is 3
